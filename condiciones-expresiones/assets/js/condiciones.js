@@ -65,6 +65,5 @@ console.log(num++);//5
 console.log(num);//
 
 for(let i = 0; i < 10; i++){
-    for(let i = 0; j < 10; j++)
-}
-
+    for(let i = 0; j < 10; j++);
+};

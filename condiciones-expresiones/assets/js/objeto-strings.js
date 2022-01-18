@@ -33,5 +33,5 @@ function invertirPalabra(cadena){
     return console.log(cadenaInvertida);
 };
 
-invertirPalabra(document.write()prompt("ingrese una palabra:"))
+invertirPalabra(document.write(),prompt("ingrese una palabra:"))
 
